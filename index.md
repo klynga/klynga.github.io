@@ -136,11 +136,11 @@ Det forutsetter blant annet styrket forskningskompetanse og \-kapasitet, storska
 Det kreves rask og koordinert handling på regjeringsnivå, inkludert samhandling med for eksempel Norges forskningsråd og Nordisk ministerråd.
 *Språkmodellklynge Norge* anbefaler å: 
 
-1. **Igangsette en hurtigarbeidende prosess mot en helhetlig nasjonal LLM-strategi**, med reell involvering av de sentrale norske forskningsmiljøene sammen med øvrige nasjonale aktører.  
-2. **Etablere et nasjonalt KI-forskningsenter for åpne språkmodeller** som samler aktørene i et faglig fellesskap, med en tilhørende **forskerskole**. I et femårsperspektiv bør det utdannes 15–20 doktorgrader.  
-3. **Videreutvikle Sigma2** som nasjonal leverandør av regnekraft, LLM-tjenester og tungregningskompetanse, herunder **utvidet norsk engasjement i europeiske tungregningsinfrastrukturer** som LUMI-AIF og EuroHPC.  
-4. **Stimulere til nordisk forsknings- og utviklingssamarbeid** gjennom blant annet data- og modelldeling, forskermobilitet, koordinert forskerutdanning, samt etablering av en **årlig nordisk møteplass for forskere og utviklere** av åpne språkmodeller.  
-5. **Utvikle rettslige og praktiske rammer** for datadeling, som balanserer opphavsrett og personvern med behovene for trening på storskala data og for inspeksjon og validering av modeller.  
+1. Igangsette en **hurtigarbeidende prosess mot en helhetlig nasjonal LLM-strategi**, med reell involvering av de sentrale norske forskningsmiljøene sammen med øvrige nasjonale aktører.
+2. Etablere et **nasjonalt KI-forskningsenter for åpne språkmodeller** som samler aktørene i et faglig fellesskap, med en tilhørende **forskerskole**. I et femårsperspektiv bør det utdannes 15–20 doktorgrader.
+3. **Videreutvikle Sigma2** som nasjonal leverandør av regnekraft, LLM-tjenester og tungregningskompetanse, herunder **utvidet norsk engasjement i europeiske tungregningsinfrastrukturer** som LUMI-AIF og EuroHPC.
+4. Stimulere til **nordisk forsknings- og utviklingssamarbeid** gjennom blant annet data- og modelldeling, forskermobilitet, koordinert forskerutdanning, samt etablering av en **årlig nordisk møteplass for forskere og utviklere** av åpne språkmodeller.
+5. **Utvikle rettslige og praktiske rammer** for datadeling, som balanserer opphavsrett og personvern med behovene for trening på storskala data og for inspeksjon og validering av modeller.
 6. Etablere norsk medlemskap i det **europeiske *Alliance for Language Technologies*** (ALT-EDIC) og økonomiske rammer for deltakelse fra universitetsmiljøer i ***Digital Europe*****\-programmet**.
 
 Norge har de språklige, faglige og institusjonelle forutsetningene for å bygge egenutviklede, åpne og etterprøvbare språkmodeller som speiler norsk språk, kultur og samfunn.
