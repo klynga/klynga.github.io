@@ -75,7 +75,7 @@ I et slikt økosystem må offentlige forskningsmiljøer inneha en sentral rolle.
 ## **Trenger Norge egen forsknings- og utviklingskapasitet?**
 
 Avstanden fra grunnleggende forskning til anvendt teknologi er kort på LLM-feltet.
-I de største teknologiselskapene i USA og Kina foregår begge deler under samme tak, og store deler av kunnskapen om effektiv LLM-utvikling forblir bedriftsintern.
+I de største teknologiselskapene i USA og Kina foregår begge deler under samme tak, og store deler av kunnskapen om effektiv LLM-utvikling holdes bedriftsintern.
 Metodedetaljer, parametervalg og praksiser forblir innsidekunnskap som verken er publisert eller umiddelbart reproduserbar utenfor disse miljøene.
 Et land uten egen forskningskapasitet vil ikke bare være avhengig av utenlandske modeller, det vil mangle evnen til å forstå dem.
 
@@ -101,7 +101,7 @@ Resultatet er en reell fare for tørke i norsk LLM-forskning – nettopp i en pe
 ## **Forskningssamarbeid i Norden og Europa**
 
 De tre største forskningsmiljøene på store språkmodeller i Norge – Nasjonalbiblioteket, NTNU og UiO – står sammen bak Språkmodellklynge Norge.
-UiOs og NTNUs deltakelse i større FoU-initiativer under *Horizon Europe*\- og *Digital Europe*\-programmene, som for eksempel <a href="https://hplt-project.org/">HPLT</a>, <a href="https://trustllm.eu/">TrustLLM</a> og <a href="https://www.openeurollm.eu/">OpenEuroLLM</a>, gir forankring i en europeisk forskningskontekst.
+UiOs og NTNUs deltakelse i større FoU-initiativer under *Horizon Europe*- og *Digital Europe*-programmene, som for eksempel <a href="https://hplt-project.org/">HPLT</a>, <a href="https://trustllm.eu/">TrustLLM</a> og <a href="https://www.openeurollm.eu/">OpenEuroLLM</a>, gir forankring i en europeisk forskningskontekst.
 Men særnorske behov risikerer å drukne.
 I OpenEuroLLM behandles for eksempel bokmål og nynorsk under ett, og norske treningsdata på rundt 100 milliarder ord forventes å utgjøre under én prosent av det totale treningsmaterialet på 10–15 billioner ord.
 Dette kan være et godt utgangspunkt for generelle modeller, men ikke nok for modeller som skal speile norsk språk, kultur og samfunnsforhold med høy kvalitet.
@@ -132,7 +132,7 @@ Statsbudsjettet for 2026 reflekterer foreløpig ikke de forsknings- og infrastru
 ## **Anbefalinger**
 
 Av hensyn til så vel digital som kulturell suverenitet må Norge etablere og drifte et helhetlig nasjonalt økosystem for utvikling, evaluering og anvendelse av egne, trygge og åpne språkmodeller.
-Det forutsetter blant annet styrket forskningskompetanse og \-kapasitet, storskala GPU-infrastruktur, tjenester for data- og modelldeling, samt rammer for samspill mellom grunnleggende forskning og praktisk anvendelse, inkludert styrket nordisk og europeisk samarbeid.
+Det forutsetter blant annet styrket forskningskompetanse og -kapasitet, storskala GPU-infrastruktur, tjenester for data- og modelldeling, samt rammer for samspill mellom grunnleggende forskning og praktisk anvendelse, inkludert styrket nordisk og europeisk samarbeid.
 Det kreves rask og koordinert handling på regjeringsnivå, inkludert samhandling med for eksempel Norges forskningsråd og Nordisk ministerråd.
 *Språkmodellklynge Norge* anbefaler å: 
 
@@ -141,11 +141,11 @@ Det kreves rask og koordinert handling på regjeringsnivå, inkludert samhandlin
 3. **Videreutvikle Sigma2** som nasjonal leverandør av regnekraft, LLM-tjenester og tungregningskompetanse, herunder **utvidet norsk engasjement i europeiske tungregningsinfrastrukturer** som LUMI-AIF og EuroHPC.
 4. Stimulere til **nordisk forsknings- og utviklingssamarbeid** gjennom blant annet data- og modelldeling, forskermobilitet, koordinert forskerutdanning, samt etablering av en **årlig nordisk møteplass for forskere og utviklere** av åpne språkmodeller.
 5. **Utvikle rettslige og praktiske rammer** for datadeling, som balanserer opphavsrett og personvern med behovene for trening på storskala data og for inspeksjon og validering av modeller.
-6. Etablere norsk medlemskap i det **europeiske *Alliance for Language Technologies*** (ALT-EDIC) og økonomiske rammer for deltakelse fra universitetsmiljøer i ***Digital Europe*****\-programmet**.
+6. Etablere norsk medlemskap i det **europeiske *Alliance for Language Technologies*** (ALT-EDIC) og økonomiske rammer for deltakelse fra universitetsmiljøer i ***Digital Europe*****-programmet**.
 
 Norge har de språklige, faglige og institusjonelle forutsetningene for å bygge egenutviklede, åpne og etterprøvbare språkmodeller som speiler norsk språk, kultur og samfunn.
 Vinduet er smalt.
-En koordinert nasjonal satsning på LLM-forskning og \-infrastruktur vil legge det faglige fundamentet for et helhetlig økosystem og dermed bidra sentralt til digital suverenitet, samfunnssikkerhet og kulturell identitet.
+En koordinert nasjonal satsning på LLM-forskning og -infrastruktur vil legge det faglige fundamentet for et helhetlig økosystem og dermed bidra sentralt til digital suverenitet, samfunnssikkerhet og kulturell identitet.
 
 <div align="center" style="margin-top: 25px;">
   <span>
