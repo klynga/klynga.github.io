@@ -4,13 +4,13 @@ permalink: /
 ---
 
 
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
   <a href="https://ai.nb.no/" target="_blank">
-    <img src="images/nb.jpg" alt="Nasjonalbiblioteket" width="180">
+    <img src="images/nb.jpg" alt="Nasjonalbiblioteket" width="180"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ntnu.edu/norwai" target="_blank">
-    <img src="images/ntnu.png" alt="Noregs teknisk-naturvitskaplege universitet" width="180">
+    <img src="images/ntnu.png" alt="Noregs teknisk-naturvitskaplege universitet" width="180"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.mn.uio.no/ifi/english/research/groups/ltg/" target="_blank">
@@ -34,7 +34,9 @@ permalink: /
   store, åpne språkmodeller i Norge</strong>
 </div>>
 
-<div align="center"><strong>(Utkast av 5. juni 2026)</strong></div>
+<div align="center" style="margin-bottom: 40px;">
+  <a href="mailto:kontakt@språkmodellklynge.no"><tt>kontakt@språkmodellklynge.no</tt></a>
+</div>
 
 ## **Bakgrunn**
 
@@ -122,7 +124,7 @@ Agenda Kaupang-rapporten kartlegger aktørbildet og foreslår tiltak rettet mot 
 Vurderingene av forskningsbehovene er imidlertid mindre utviklet, der grunnleggende metodeutvikling og evaluering av språkmodeller – arkitekturer, algoritmer, testbatterier, sikkerhetsvurdering, språklig kvalitet – får liten plass.
 
 Det er nettopp her uavhengige forskningsmiljøer er uerstattelige: Metode- og teknologiutviklingen foregår med høy fart.
-For å vedlikeholde et oppdatert kunnskapsgrunnlag for egenutviklede grunnmodeller i Norge må forskningsmiljøene kunne «henger med» i den globale utviklingen.
+For å vedlikeholde et oppdatert kunnskapsgrunnlag for egenutviklede grunnmodeller i Norge må forskningsmiljøene kunne henge med i den globale utviklingen.
 Dette også for å kunne utdanne kandidater med spisskompetanse på området.
 Et økosystem som hovedsakelig finjusterer utenlandske modeller, vil ikke kunne vurdere kritisk hva disse modellene gjør, hvordan de feiler, eller hvor de ikke kan brukes forsvarlig.
 Statsbudsjettet for 2026 reflekterer foreløpig ikke de forsknings- og infrastrukturbehovene som følger av regjeringens egne KI-ambisjoner.
@@ -145,3 +147,9 @@ Norge har de språklige, faglige og institusjonelle forutsetningene for å bygge
 Vinduet er smalt.
 En koordinert nasjonal satsning på LLM-forskning og \-infrastruktur vil legge det faglige fundamentet for et helhetlig økosystem og dermed bidra sentralt til digital suverenitet, samfunnssikkerhet og kulturell identitet.
 
+<div align="center" style="margin-top: 25px;">
+  <span>
+    <a href="statusmelding.pdf" target="_blank"><img src="/images/pdf.svg" width="50"/></a>
+    &nbsp;&nbsp;<a href="statusmelding.pdf" target="_blank">Download in PDF</a>
+  </span>
+</div>

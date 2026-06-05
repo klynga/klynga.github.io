@@ -30,7 +30,7 @@ permalink: /om/
 <div align="center">
   <a href="https://www.arendalsuka.no/program/sprakmodeller-og-digital-suverenitet-hva-er-norges-strategi" target="_blank">
     <img src="/images/arendalsuka.png" alt="Arendalsuke, 13. august 2026" width="30%">
-    <span><strong>13. august 2026, kl. 9:00, Ki-teltet</strong></span>
+    <span><strong>13. august 2026, kl. 9:00</strong></span>
   </a>
 </div>
 
