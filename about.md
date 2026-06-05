@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om oss
+permalink: /om/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<div align="center">
+  <img src="/images/260205.png" alt="Oppstartstøte, 25. januar 2026" width="100%">
+  <p>Fra venstre: Erik Velldal (LTG), Svein Arne Brygfjeld (NB), Nina Teigland (Språkrådet), Lilja Øvrelid (LTG), Gunnar Bøe (Sigma2), Benjamin Kille (NorwAI), Stephan Oepen (LTG), Kerstin Bach (NorwAI), Yngvil Beyer (NB), Kristine Eide (Språkrådet), Javier de la Rosa (NB), Jon-Atle Gulla (NorwAI).</p>
+</div>

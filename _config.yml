@@ -21,12 +21,12 @@
 title: Språkmodellklynge Norge
 email: kontakt@språkmodellklynge.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Språkmodellklynge Norge samler sentrale norske fagmiljoer som forsker på store, åpne språkmodeller.
+   Nasjonal koordinering av forskning på egenutviklede, åpne språkmodeller i Norge.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.språkmodellklynge.no
 url: https://www.språkmodellklynge.no
-linkedin_username: klynga
-github_username:  klynga
+github_username: klynga
+linkedin_username:  klynga
 
 # Build settings
 theme: minima
