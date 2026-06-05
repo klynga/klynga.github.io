@@ -47,8 +47,8 @@ og samisk innhold.
 ble invitert som faste observatører, og det forventes at flere norske
 FoU-miljøer på språkmodeller og andre relevante aktører vil inviteres
 inn i dette samarbeidet.
-I februar 2026 ble det holdt et <a href="https://www.khrono.no/samler-norsk-sprakmodell-forskning-i-ny-nasjonal-klynge/1035657" target="_blank">heldagsmøte i Oslo</a> og siden har partene jobbet gjennom
-faste møter i koordineringsgruppa for å bygge rammer og strukturer som fremmer
+I februar 2026 ble det holdt et <a href="https://www.khrono.no/samler-norsk-sprakmodell-forskning-i-ny-nasjonal-klynge/1035657" target="_blank">heldagsmøte i Oslo</a>, og partene jobber gjennom
+månedlige møter i koordineringsgruppa for å bygge rammer og strukturer som fremmer
 samarbeid og kunnskapsutveksling.
 
 <div align="center">

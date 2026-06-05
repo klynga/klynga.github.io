@@ -74,7 +74,7 @@ De tre største forskningsmiljøene på store språkmodeller i Norge – Nasjona
 
 På nordisk nivå er mulige synergier store og lite utnyttet. Nordiske, spesielt skandinaviske og samiske trenings- og evalueringsdata kan tilføre merverdi til nasjonal modellutvikling, og felles grunntrening kan gi kostnadsbesparelser. Kompetanseutveksling om dataeffektive metoder og effektiv bruk av de europeiske KI-fabrikkene er også viktig. Mindre, spesialiserte norske modeller kan gi både bedre ytelse og bedre kost-nytte enn store generalistmodeller for bruksområder i offentlig sektor, som for eksempel forvaltning, rettsvesen, utdanning og helse.
 
-## **Hva mangler i dagens strategirunnlag?**
+## **Hva mangler i dagens strategigrunnlag?**
 
 Norge har et omfattende politikkgrunnlag for KI gjennom blant annet <a href="https://www.regjeringen.no/no/dokumenter/nasjonal-strategi-for-kunstig-intelligens/id2685594/" target="_blank">Nasjonal strategi for kunstig intelligens</a> (2020), <a href="https://www.regjeringen.no/no/dokumenter/meld.-st.-5-20222023/id2931400/" target="_blank">Langtidsplan for forskning og høyere utdanning 2023–2032</a> og <a href="https://www.regjeringen.no/no/dokumenter/nou-2024-14/id3046520/" target="_blank">NOU 2024:14 Med lov skal data deles</a>. Regjeringen har satt mål om at offentlig sektor skal ta i bruk KI innen 2030, og varsler en nasjonal KI-infrastruktur med egenutviklede grunnmodeller og inferenstjenester. Nasjonalbiblioteket har fått i oppdrag å trene språkmodeller tuftet på norsk og samisk innhold.
 
