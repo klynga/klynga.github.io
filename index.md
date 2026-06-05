@@ -30,7 +30,8 @@ permalink: /
 
 <div align="center" class="page-heading">
   Nasjonal statusmelding:<br/>
-  Forskning og utvikling for store, åpne språkmodeller i Norge
+  Forskning og utvikling for<br/>
+  store, åpne språkmodeller i Norge
 </div>>
 
 <div align="center"><strong>(Utkast av 5. juni 2026)</strong></div>
