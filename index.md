@@ -63,7 +63,7 @@ En koordinert nasjonal satsning på LLM-forskning og -infrastruktur vil legge de
   </span>
 </div>
 
-## **Bakgrunn**
+## **(1) Bakgrunn**
 
 Store språkmodeller (*Large Language Models*, LLM-er) er bærebjelken i dagens generative kunstige intelligens (KI), og de er i ferd med å bli samfunnskritisk infrastruktur på linje med strøm og kommunikasjonsnett.
 Norske forskningsmiljøer går nå sammen i *Språkmodellklynge Norge* for å samle kreftene på feltet.
@@ -74,7 +74,7 @@ Dette dokumentet gir en overordnet strategisk vurdering av forskningen på og ut
 Det supplerer Agenda Kaupangs kartlegging <a href="https://www.regjeringen.no/no/dokumenter/fra-ord-til-okosystem-sprakmodeller-og-generativ-ki-i-norge/id3146828/" target="_blank">Fra ord til økosystem: Språkmodeller og generativ KI i Norge</a> (2025), bestilt av Digitaliserings- og forvaltningsdepartementet.
 Agenda Kaupang-rapporten kartlegger anvendelses- og leverandørsiden av økosystemet grundig, men berører i liten grad det forsknings- og kunnskapsgrunnlaget norske språkmodeller hviler på.
 
-## **Hvorfor egne norske språkmodeller?**
+## **(2) Hvorfor egne norske språkmodeller?**
 
 LLM-er er store nevrale nettverk, trent på enorme datamengder.
 De gjør datasystemer i stand til å tilsynelatende både «forstå» menneskelig språk og å «ytre seg» om komplekse saksforhold.
@@ -98,7 +98,7 @@ Også bokmål er globalt sett et lite språk, og markedskreftene alene vil ikke 
 Full åpenhet – om treningsdata, programvare, modellvekter og evalueringer – er forutsetningen for at norske språkmodeller skal være etterprøvbare, faglig så vel som i et nasjonalt sikkerhetsperspektiv.
 I et slikt økosystem må offentlige forskningsmiljøer inneha en sentral rolle.
 
-## **Trenger Norge egen forsknings- og utviklingskapasitet?**
+## **(3) Trenger Norge egen forsknings- og utviklingskapasitet?**
 
 Avstanden fra grunnleggende forskning til anvendt teknologi er kort på LLM-feltet.
 I de største teknologiselskapene i USA og Kina foregår begge deler under samme tak, og store deler av kunnskapen om effektiv LLM-utvikling holdes bedriftsintern.
@@ -124,7 +124,7 @@ Som Agenda Kaupang-rapporten beskriver, er økosystemet for utvikling av norske 
 Tildelingen av KI-milliarden i 2025 etablerte seks nye KI-forskningssentre, men ingen av dem har språkmodeller som kjernemandat.
 Resultatet er en reell fare for tørke i norsk LLM-forskning – nettopp i en periode der teknologiutviklingen går raskest og avhengigheten av utenlandske aktører er størst.
 
-## **Forskningssamarbeid i Norden og Europa**
+## **(4) Forskningssamarbeid i Norden og Europa**
 
 De tre største forskningsmiljøene på store språkmodeller i Norge – Nasjonalbiblioteket, NTNU og UiO – står sammen bak Språkmodellklynge Norge.
 UiOs og NTNUs deltakelse i større FoU-initiativer under *Horizon Europe*- og *Digital Europe*-programmene, som for eksempel <a href="https://hplt-project.org/">HPLT</a>, <a href="https://trustllm.eu/">TrustLLM</a> og <a href="https://www.openeurollm.eu/">OpenEuroLLM</a>, gir forankring i en europeisk forskningskontekst.
@@ -137,7 +137,7 @@ Nordiske, spesielt skandinaviske og samiske trenings- og evalueringsdata kan til
 Kompetanseutveksling om dataeffektive metoder og effektiv bruk av de europeiske KI-fabrikkene er også viktig.
 Mindre, spesialiserte norske modeller kan gi både bedre ytelse og bedre kost-nytte enn store generalistmodeller for bruksområder i offentlig sektor, som for eksempel forvaltning, rettsvesen, utdanning og helse.
 
-## **Hva mangler i dagens strategigrunnlag?**
+## **(5) Hva mangler i dagens strategigrunnlag?**
 
 Norge har et omfattende politikkgrunnlag for KI gjennom blant annet <a href="https://www.regjeringen.no/no/dokumenter/nasjonal-strategi-for-kunstig-intelligens/id2685594/" target="_blank">Nasjonal strategi for kunstig intelligens</a> (2020), <a href="https://www.regjeringen.no/no/dokumenter/meld.-st.-5-20222023/id2931400/" target="_blank">Langtidsplan for forskning og høyere utdanning 2023–2032</a> og <a href="https://www.regjeringen.no/no/dokumenter/nou-2024-14/id3046520/" target="_blank">NOU 2024:14 Med lov skal data deles</a>.
 Regjeringen har satt mål om at offentlig sektor skal ta i bruk KI innen 2030, og varsler en nasjonal KI-infrastruktur med egenutviklede grunnmodeller og inferenstjenester.
