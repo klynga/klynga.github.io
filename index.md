@@ -86,6 +86,7 @@ Bak en velfungerende språkmodell ligger en lang verdikjede: tilrettelegging og 
 Når LLM-er blir kritisk infrastruktur, handler eierskap til denne verdikjeden om mer enn teknologi: om digital suverenitet, samfunnssikkerhet, åpenhet og språklig og kulturell identitet.
 Norge risikerer dyp avhengighet av lukket teknologi og utenlandske leverandører – i praksis teknologiselskap i USA og Kina.
 Sikkerhetsaspektet er minst like alvorlig, siden KI-sikkerhet forutsetter dybdeinnsikt i alle ledd og muligheter for tilpasning og kontroll.
+Det ligger en betydelig risiko i den konsentrasjonen av kunnskap og kapital på få hender.
 
 Ved første øyekast kan man få inntrykk av at de flerspråklige modellene fra de store teknologiselskapene fungerer bra for norsk.
 Det er imidlertid godt dokumentert hvordan dominansen av engelskspråklige (og oftest amerikanske) data i treningsmaterialet smitter over på det som genereres for språk med lavere grad av representasjon – både når det gjelder meningsinnhold og språklige vendinger. 
