@@ -6,7 +6,7 @@ permalink: /
 
 <div align="center" style="margin-bottom: 10px;">
   <a href="https://ai.nb.no/" target="_blank">
-    <img src="images/nb.jpg" alt="Nasjonalbiblioteket" width="180"/>
+    <img src="images/nb.png" alt="Nasjonalbiblioteket" width="180"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ntnu.edu/norwai" target="_blank">

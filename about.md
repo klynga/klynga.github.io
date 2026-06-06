@@ -6,7 +6,7 @@ permalink: /om/
 
 <div align="center">
   <a href="https://ai.nb.no/" target="_blank">
-    <img src="/images/nb.jpg" alt="Nasjonalbiblioteket" width="180">
+    <img src="/images/nb.png" alt="Nasjonalbiblioteket" width="180">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ntnu.edu/norwai" target="_blank">
@@ -29,8 +29,8 @@ permalink: /om/
 
 <div align="center">
   <a href="https://www.arendalsuka.no/program/sprakmodeller-og-digital-suverenitet-hva-er-norges-strategi" target="_blank">
-    <img src="/images/arendalsuka.png" alt="Arendalsuke, 13. august 2026" width="30%">
-    <span><strong>13. august 2026, kl. 9:00</strong></span>
+    <img src="/images/arendalsuka.png" alt="Arendalsuke, 13. august 2026" width="30%">&nbsp;
+    <strong>13. august 2026, kl. 9:00</strong>
   </a>
 </div>
 
