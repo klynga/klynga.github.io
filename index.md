@@ -38,6 +38,31 @@ permalink: /
   <a href="mailto:kontakt@språkmodellklynge.no"><tt>kontakt@språkmodellklynge.no</tt></a>
 </div>
 
+## **Anbefalinger**
+
+Av hensyn til så vel digital som kulturell suverenitet må Norge etablere og drifte et helhetlig nasjonalt økosystem for utvikling, evaluering og anvendelse av egne, trygge og åpne språkmodeller.
+Det forutsetter blant annet styrket forskningskompetanse og -kapasitet, storskala GPU-infrastruktur, tjenester for data- og modelldeling, samt rammer for samspill mellom grunnleggende forskning og praktisk anvendelse, inkludert styrket nordisk og europeisk samarbeid.
+Det kreves rask og koordinert handling på regjeringsnivå, inkludert samhandling med for eksempel Norges forskningsråd og Nordisk ministerråd.
+*Språkmodellklynge Norge* anbefaler å: 
+
+1. Igangsette en **hurtigarbeidende prosess mot en helhetlig nasjonal LLM-strategi**, med reell involvering av de sentrale norske forskningsmiljøene sammen med øvrige nasjonale aktører.
+2. Etablere et **nasjonalt KI-forskningsenter for åpne språkmodeller** som samler aktørene i et faglig fellesskap, med en tilhørende **forskerskole**. I et femårsperspektiv bør det utdannes 15–20 doktorgrader.
+3. **Videreutvikle Sigma2** som nasjonal leverandør av regnekraft, LLM-tjenester og tungregningskompetanse, herunder **utvidet norsk engasjement i europeiske tungregningsinfrastrukturer** som LUMI-AIF og EuroHPC.
+4. Stimulere til **nordisk forsknings- og utviklingssamarbeid** gjennom blant annet data- og modelldeling, forskermobilitet, koordinert forskerutdanning, samt etablering av en **årlig nordisk møteplass for forskere og utviklere** av åpne språkmodeller.
+5. **Utvikle rettslige og praktiske rammer** for datadeling, som balanserer opphavsrett og personvern med behovene for trening på storskala data og for inspeksjon og validering av modeller.
+6. Etablere norsk medlemskap i det **europeiske *Alliance for Language Technologies*** (ALT-EDIC) og økonomiske rammer for deltakelse fra universitetsmiljøer i ***Digital Europe*****-programmet**.
+
+Norge har de språklige, faglige og institusjonelle forutsetningene for å bygge egenutviklede, åpne og etterprøvbare språkmodeller som speiler norsk språk, kultur og samfunn.
+Vinduet er smalt.
+En koordinert nasjonal satsning på LLM-forskning og -infrastruktur vil legge det faglige fundamentet for et helhetlig økosystem og dermed bidra sentralt til digital suverenitet, samfunnssikkerhet og kulturell identitet.
+
+<div align="center" style="margin-top: 25px; margin-bottom: 15px;">
+  <span>
+    <a href="statusmelding.pdf" target="_blank"><img src="/images/pdf.svg" width="50"/></a>
+    &nbsp;&nbsp;<a href="statusmelding.pdf" target="_blank">Download in PDF</a>
+  </span>
+</div>
+
 ## **Bakgrunn**
 
 Store språkmodeller (*Large Language Models*, LLM-er) er bærebjelken i dagens generative kunstige intelligens (KI), og de er i ferd med å bli samfunnskritisk infrastruktur på linje med strøm og kommunikasjonsnett.
@@ -129,27 +154,3 @@ Dette også for å kunne utdanne kandidater med spisskompetanse på området.
 Et økosystem som hovedsakelig finjusterer utenlandske modeller, vil ikke kunne vurdere kritisk hva disse modellene gjør, hvordan de feiler, eller hvor de ikke kan brukes forsvarlig.
 Statsbudsjettet for 2026 reflekterer foreløpig ikke de forsknings- og infrastrukturbehovene som følger av regjeringens egne KI-ambisjoner.
 
-## **Anbefalinger**
-
-Av hensyn til så vel digital som kulturell suverenitet må Norge etablere og drifte et helhetlig nasjonalt økosystem for utvikling, evaluering og anvendelse av egne, trygge og åpne språkmodeller.
-Det forutsetter blant annet styrket forskningskompetanse og -kapasitet, storskala GPU-infrastruktur, tjenester for data- og modelldeling, samt rammer for samspill mellom grunnleggende forskning og praktisk anvendelse, inkludert styrket nordisk og europeisk samarbeid.
-Det kreves rask og koordinert handling på regjeringsnivå, inkludert samhandling med for eksempel Norges forskningsråd og Nordisk ministerråd.
-*Språkmodellklynge Norge* anbefaler å: 
-
-1. Igangsette en **hurtigarbeidende prosess mot en helhetlig nasjonal LLM-strategi**, med reell involvering av de sentrale norske forskningsmiljøene sammen med øvrige nasjonale aktører.
-2. Etablere et **nasjonalt KI-forskningsenter for åpne språkmodeller** som samler aktørene i et faglig fellesskap, med en tilhørende **forskerskole**. I et femårsperspektiv bør det utdannes 15–20 doktorgrader.
-3. **Videreutvikle Sigma2** som nasjonal leverandør av regnekraft, LLM-tjenester og tungregningskompetanse, herunder **utvidet norsk engasjement i europeiske tungregningsinfrastrukturer** som LUMI-AIF og EuroHPC.
-4. Stimulere til **nordisk forsknings- og utviklingssamarbeid** gjennom blant annet data- og modelldeling, forskermobilitet, koordinert forskerutdanning, samt etablering av en **årlig nordisk møteplass for forskere og utviklere** av åpne språkmodeller.
-5. **Utvikle rettslige og praktiske rammer** for datadeling, som balanserer opphavsrett og personvern med behovene for trening på storskala data og for inspeksjon og validering av modeller.
-6. Etablere norsk medlemskap i det **europeiske *Alliance for Language Technologies*** (ALT-EDIC) og økonomiske rammer for deltakelse fra universitetsmiljøer i ***Digital Europe*****-programmet**.
-
-Norge har de språklige, faglige og institusjonelle forutsetningene for å bygge egenutviklede, åpne og etterprøvbare språkmodeller som speiler norsk språk, kultur og samfunn.
-Vinduet er smalt.
-En koordinert nasjonal satsning på LLM-forskning og -infrastruktur vil legge det faglige fundamentet for et helhetlig økosystem og dermed bidra sentralt til digital suverenitet, samfunnssikkerhet og kulturell identitet.
-
-<div align="center" style="margin-top: 25px;">
-  <span>
-    <a href="statusmelding.pdf" target="_blank"><img src="/images/pdf.svg" width="50"/></a>
-    &nbsp;&nbsp;<a href="statusmelding.pdf" target="_blank">Download in PDF</a>
-  </span>
-</div>
